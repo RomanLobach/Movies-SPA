@@ -1,0 +1,9 @@
+.search {
+  background-color: rgba(0, 40, 79, 0.7);
+
+  &__form {
+    display: flex;
+    width: 100%;
+    margin-bottom: 50px;
+  }
+}

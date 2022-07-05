@@ -1,0 +1,15 @@
+.footer {
+  padding: 80px 0;
+  background-color: rgba(0, 40, 79, 1);
+  color: white;
+
+  &__wraper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  a {
+    color: white;
+  }
+}
