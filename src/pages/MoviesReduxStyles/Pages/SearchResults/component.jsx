@@ -22,7 +22,7 @@ const SearchResults = ({searchedMovies, setSearch}) => {
     fetch(generateSearchUrl(query))
       .then(res => res.json())
       .then(data => setSearch(data.results))
-  }, [])
+  }, [query])
 
   return (
     <section className="search-results">
