@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+This is my graduation project from Hillel's Front-End Pro course.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's an SPA with movies database, built with React, Redux, Material UI. I used mock design templates from my head, so all rights reserved!
+
+This project is in progress. New features in development and will appear in the nearest future. Stand by...
 
 ## Available Scripts
 
