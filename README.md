@@ -1,8 +1,8 @@
 This is my graduation project from Hillel's Front-End Pro course.
 
-It's an SPA with movies database, built with React, Redux, Material UI. I used mock design templates from my head, so all rights reserved!
+It's an SPA with movies database, built with React, Redux, Material UI. I used mock design templates from my head, so all rights are reserved!
 
-This project is in progress. New features in development and will appear in the nearest future. Stand by...
+This project is in progress. New features in development will appear in the nearest future. Stand by...
 
 ## Available Scripts
 
