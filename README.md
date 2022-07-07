@@ -11,6 +11,8 @@ Known shortcomings of the project (next fixes):
   - working with font styles;
   - enriched, modern movie card design;
   - enriched, modern movie details design;
+  
+API link: https://www.themoviedb.org/documentation/api?language=en
 
 ## Available Scripts
 
