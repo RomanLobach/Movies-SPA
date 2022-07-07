@@ -4,6 +4,14 @@ It's an SPA with movies database, built with React, Redux, Material UI. I used m
 
 This project is in progress. New features in development will appear in the nearest future. Stand by...
 
+Known shortcomings of the project (next fixes):
+  - pending loading stubs, media not loading stubs etc;
+  - implementation download top rated movies;
+  - implementation of carousel slider to display top rated movies and popular movies;
+  - working with font styles;
+  - enriched, modern movie card design;
+  - enriched, modern movie details design;
+
 ## Available Scripts
 
 In the project directory, you can run:
